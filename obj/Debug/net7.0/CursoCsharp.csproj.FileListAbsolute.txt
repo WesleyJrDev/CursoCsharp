@@ -1,0 +1,14 @@
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\bin\Debug\net7.0\CursoCsharp.exe
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\bin\Debug\net7.0\CursoCsharp.deps.json
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\bin\Debug\net7.0\CursoCsharp.runtimeconfig.json
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\bin\Debug\net7.0\CursoCsharp.dll
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\bin\Debug\net7.0\CursoCsharp.pdb
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.AssemblyInfo.cs
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.dll
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\refint\CursoCsharp.dll
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.pdb
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\CursoCsharp.genruntimeconfig.cache
+C:\Users\wesle\Desktop\Programação\C#\CursoCsharp\obj\Debug\net7.0\ref\CursoCsharp.dll
